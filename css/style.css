@@ -126,7 +126,7 @@ h6 {
     padding: 24px 44px;
     border-radius: 2px;
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 15px;
     text-decoration: none;
 }
 
@@ -144,16 +144,152 @@ h6 {
 
 .section-about {
     width: 100%;
-    ;
     color: white;
 
 }
-.about
-{
+
+.about {
     overflow: auto;
+    padding: 50px 0px;
 }
-.about-cont
+
+.about-cont {
+    width: 50%;
+    float: left;
+    text-align: left;
+    font-family:
+}
+
+.about-head {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 18px;
+    color: #232044;
+}
+
+.line {
+    width: 120px;
+    height: 6px;
+    display: inline-block;
+    background-color: #26BAFF;
+}
+
+.line1 {
+    height: 6px;
+    display: inline-block;
+    background-color: #26BAFF;
+    width: 8px;
+}
+
+.line2 {
+    height: 6px;
+    display: inline-block;
+    background-color: #26BAFF;
+    width: 8px;
+}
+
+.about-anchor {
+    text-align: left;
+    width: 80%;
+    padding: 20px 0px;
+}
+
+.about-port {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: 1px solid #26BAFF;
+    text-decoration: none;
+    color: white;
+    padding: 24px 44px;
+    border-radius: 2px;
+    display: inline-block;
+    background-color: #232044;
+}
+
+.about-text {
+    width: 100%;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.about-pera {
+    font-size: 14px;
+    color: #232044;
+    font-weight: 400;
+    font-family: "Montserrat",sans-serif;
+    padding-bottom: 25px;
+
+
+}
+.about-img
 {
     width: 50%;
     float: left;
+    padding-top: 85px;
+    padding-left: 20px;
 }
+.service-section
+{
+    width: 100%;
+    background-color:#232044;
+    padding: 80px 0px;
+}
+.sec-text
+{
+    font-size: 14px;
+    font-family: "Montserrat",sans-serif;
+    padding-bottom: 20px 0px;
+    color: #26baff;
+    font-weight: 500;
+    
+}
+.sec-texth3
+{
+    font-size: 35px;
+    font-weight: 700;
+    color: white;
+    font-family:"Montserrat", sans-serif;
+    padding: 20px 0px;
+}
+.ser-txt
+{
+    text-align: left;
+    font-family: "Montserrat" , sans-serif;
+    font-size: 16px;
+    padding: 20px 0px;
+    color: white;
+    font-weight: 500;
+}
+.section-cards
+{
+    width: 100%;
+    background-color: #232044;
+    overflow: auto;
+}
+.sec-card-det
+{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    text-align: left;
+}
+.about-h4
+{
+    color: #26baff;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 15px 0px;
+    
+}
+.about-pera-txt
+{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding: 15px 0px;
+}
+
