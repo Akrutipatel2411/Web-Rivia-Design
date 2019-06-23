@@ -218,74 +218,74 @@ h6 {
     font-size: 14px;
     color: #232044;
     font-weight: 400;
-    font-family: "Montserrat",sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding-bottom: 25px;
 
 
 }
-.about-img
-{
+
+.about-img {
     width: 50%;
     float: left;
     padding-top: 85px;
     padding-left: 20px;
 }
-.service-section
-{
+
+.service-section {
     width: 100%;
-    background-color:#232044;
+    background-color: #232044;
     padding: 80px 0px;
 }
-.sec-text
-{
+
+.sec-text {
     font-size: 14px;
-    font-family: "Montserrat",sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding-bottom: 20px 0px;
     color: #26baff;
     font-weight: 500;
-    
+
 }
-.sec-texth3
-{
+
+.sec-texth3 {
     font-size: 35px;
     font-weight: 700;
     color: white;
-    font-family:"Montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 20px 0px;
 }
-.ser-txt
-{
+
+.ser-txt {
     text-align: left;
-    font-family: "Montserrat" , sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     padding: 20px 0px;
     color: white;
     font-weight: 500;
 }
-.section-cards
-{
+
+.section-cards {
     width: 100%;
     background-color: #232044;
     overflow: auto;
 }
-.sec-card-det
-{
+
+.sec-card-det {
     width: 33.33%;
     float: left;
     padding: 20px;
     text-align: left;
 }
-.about-h4
-{
+
+.about-h4 {
     color: #26baff;
     font-size: 22px;
     font-weight: 600;
     font-family: sans-serif;
     padding: 15px 0px;
-    
+
 }
-.about-pera-txt
-{
+
+.about-pera-txt {
     color: white;
     font-size: 14px;
     font-weight: 400;
@@ -293,3 +293,79 @@ h6 {
     padding: 15px 0px;
 }
 
+.feature-section {
+    width: 100%;
+    padding-top: 80px;
+    overflow: auto;
+}
+
+.feature-txt {
+    font-weight: 700;
+    color: #232044;
+    font-size: 32px;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.feature-line {
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.feature-pera {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.feature-txt-pera {
+
+    color: #232044;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+
+
+
+.feature-pera-cont
+{
+   width: 33.33%;
+    float: left;
+    padding: 20px;
+    text-align: center;  
+}
+.fea-img
+{
+    text-align: center;
+    width: 100%;
+}
+
+.fea-pt {
+    text-align: center;
+    color: #232044;
+    font-family: sans-serif;
+    padding: 20px 0px;
+    width: 100%;
+}
+
+.fea-txt {
+
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.fea-pera {
+    font-weight: 400;
+    font-size: 14px;
+    padding: 0px 0px;
+
+
+}
