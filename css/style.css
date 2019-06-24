@@ -369,3 +369,62 @@ h6 {
 
 
 }
+.portfolio-section
+{
+    width: 100%;
+    background-color: white;
+    padding-top: 80px;
+}
+.button-grp
+{
+    width: 72%;
+    margin: 0 auto;
+    padding: 50px 20px;
+    overflow: auto;
+}
+
+.button-list-item
+{
+    list-style: none;
+    float: left;
+    text-align: center;
+    margin-right: 7px;
+}
+.button-anchor
+{
+    color: white;
+    background-color: #26baff;
+    padding: 20px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+.btn-anchor
+{
+    color: #26baff;
+    background-color: #242047;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px 20px;
+    display: inline-block;
+}
+.port-gallery
+{
+    width: 100%;
+    overflow: auto;
+}
+.gallery
+{
+    width: 33.33%;
+    float: left;
+    padding: 15px 15px;
+    
+}
+
