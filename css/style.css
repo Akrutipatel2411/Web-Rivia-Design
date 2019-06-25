@@ -520,13 +520,28 @@ h6 {
 {
     width: 33.33%;
     overflow: hidden;
-    padding: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
     float: left;
     position: relative;
     text-align: center;
     background-color: white;
     border-radius: 2px;
     box-shadow: 1px -1px 5px 1px #80808087;
+}
+.pro-card-light
+{
+    width: 33.33%;
+    overflow: hidden;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+    position: relative;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 1px -1px 5px 1px #80808087;
+    opacity: 0.4;
 }
 .pro-color
 {
@@ -546,7 +561,7 @@ h6 {
 }
 .pro-items
 {
-    padding: 15px 0px;
+    padding: 15px 15px;
 }
 .pro-item-list
 {
@@ -570,5 +585,53 @@ h6 {
 }
 .pro-btn-cont
 {
-    padding: 15px 0px;
+    padding: 15px 15px;
+}
+.client-section
+{
+    width: 100%;
+    background-image:linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)),  url(../images/review_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 100px;
+}
+.client-img
+{
+    width: 30%;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+.client-txt
+{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.client-h2
+{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+.client-h4
+{
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.client-pera
+{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
