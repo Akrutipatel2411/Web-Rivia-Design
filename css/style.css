@@ -88,7 +88,7 @@ h6 {
 
 .title-txt {
     font-size: 100px;
-    font-weight: 500;
+    font-weight: 700;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: white;
@@ -374,6 +374,7 @@ h6 {
     width: 100%;
     background-color: white;
     padding-top: 80px;
+    padding-bottom: 80px;
 }
 .button-grp
 {
@@ -427,4 +428,147 @@ h6 {
     padding: 15px 15px;
     
 }
-
+.fun-fact
+{
+    background-image:  linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)), url(../images/promo_bg.jpg);
+    background-attachment: fixed;
+    padding: 80px 0px;
+    background-position:  top center;
+    background-size: cover;
+    width: 100%;
+}
+.fun-gallery
+{
+    width: 25%;
+    color: white;
+    float: left;
+    padding: 15px 15px;
+    text-align: center;
+}
+.fun-h2
+{
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.fun-h3
+{
+    font-size: 26px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.team-section
+{
+    width: 100%;
+    background-color: white;
+    padding-top: 80px;
+}
+.team-gallery
+{
+    width: 100%;
+    overflow: auto;
+    
+}
+.team-gal-list
+{
+    width: 33.33%;
+    float: left;
+    padding: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+.gal-txt
+{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.3em;
+    padding-top: 20px;
+    color: #232044;
+}
+.gal-pera
+{
+   font-weight: 400;
+    font-size: 16px;
+    color: #232044; 
+}
+.package-section
+{
+   width: 100%;
+    padding: 80px 0;
+    background-color: #F6F6F6; 
+}
+.pack-cont
+{
+    width: 41.66%;
+    float: left;
+    padding: 15px 15px;
+}
+.pack-txt
+{
+    padding: 90px 40px;
+    text-align: left;
+}
+.product
+{
+    width: 58.33%;
+    float: left;
+    padding: 15px 15px;
+    overflow: auto;
+    
+}
+.pro-card
+{
+    width: 33.33%;
+    overflow: hidden;
+    padding: 20px;
+    float: left;
+    position: relative;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 1px -1px 5px 1px #80808087;
+}
+.pro-color
+{
+    width: 100%;
+    height: 100px;
+    background-color: #26BAFF;
+    border-bottom-right-radius: 30%;
+    border-bottom-left-radius: 100%;
+    
+}
+.pro-txt
+{
+    font-size: 28px;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.pro-items
+{
+    padding: 15px 0px;
+}
+.pro-item-list
+{
+    list-style: none;
+    padding: 15px 0px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 500;
+    
+}
+.pro-btn
+{
+    border: 2px solid #26BAFF;
+    color: #232044;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding: 15px 15px;
+    text-decoration: none;
+    
+}
+.pro-btn-cont
+{
+    padding: 15px 0px;
+}
