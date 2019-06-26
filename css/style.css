@@ -334,15 +334,14 @@ h6 {
 
 
 
-.feature-pera-cont
-{
-   width: 33.33%;
+.feature-pera-cont {
+    width: 33.33%;
     float: left;
     padding: 20px;
-    text-align: center;  
+    text-align: center;
 }
-.fea-img
-{
+
+.fea-img {
     text-align: center;
     width: 100%;
 }
@@ -369,30 +368,29 @@ h6 {
 
 
 }
-.portfolio-section
-{
+
+.portfolio-section {
     width: 100%;
     background-color: white;
     padding-top: 80px;
     padding-bottom: 80px;
 }
-.button-grp
-{
+
+.button-grp {
     width: 72%;
     margin: 0 auto;
     padding: 50px 20px;
     overflow: auto;
 }
 
-.button-list-item
-{
+.button-list-item {
     list-style: none;
     float: left;
     text-align: center;
     margin-right: 7px;
 }
-.button-anchor
-{
+
+.button-anchor {
     color: white;
     background-color: #26baff;
     padding: 20px 20px;
@@ -403,8 +401,8 @@ h6 {
     text-align: center;
     display: inline-block;
 }
-.btn-anchor
-{
+
+.btn-anchor {
     color: #26baff;
     background-color: #242047;
     text-align: center;
@@ -416,108 +414,107 @@ h6 {
     padding: 20px 20px;
     display: inline-block;
 }
-.port-gallery
-{
+
+.port-gallery {
     width: 100%;
     overflow: auto;
 }
-.gallery
-{
+
+.gallery {
     width: 33.33%;
     float: left;
     padding: 15px 15px;
-    
+
 }
-.fun-fact
-{
-    background-image:  linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)), url(../images/promo_bg.jpg);
+
+.fun-fact {
+    background-image: linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)), url(../images/promo_bg.jpg);
     background-attachment: fixed;
     padding: 80px 0px;
-    background-position:  top center;
+    background-position: top center;
     background-size: cover;
     width: 100%;
 }
-.fun-gallery
-{
+
+.fun-gallery {
     width: 25%;
     color: white;
     float: left;
     padding: 15px 15px;
     text-align: center;
 }
-.fun-h2
-{
+
+.fun-h2 {
     font-size: 32px;
     font-weight: 700;
     font-family: sans-serif;
 }
-.fun-h3
-{
+
+.fun-h3 {
     font-size: 26px;
     font-weight: 500;
     font-family: sans-serif;
 }
-.team-section
-{
+
+.team-section {
     width: 100%;
     background-color: white;
-    padding-top: 80px;
+    padding: 80px 0px;
 }
-.team-gallery
-{
+
+.team-gallery {
     width: 100%;
     overflow: auto;
-    
+
 }
-.team-gal-list
-{
+
+.team-gal-list {
     width: 33.33%;
     float: left;
     padding: 15px;
     text-align: left;
     font-family: sans-serif;
 }
-.gal-txt
-{
+
+.gal-txt {
     font-weight: 500;
     font-size: 26px;
     line-height: 1.3em;
     padding-top: 20px;
     color: #232044;
 }
-.gal-pera
-{
-   font-weight: 400;
+
+.gal-pera {
+    font-weight: 400;
     font-size: 16px;
-    color: #232044; 
+    color: #232044;
 }
-.package-section
-{
-   width: 100%;
-    padding: 80px 0;
-    background-color: #F6F6F6; 
+
+.package-section {
+    width: 100%;
+    background-color: #F6F6F6;
 }
-.pack-cont
-{
+
+.pack-cont {
     width: 41.66%;
     float: left;
     padding: 15px 15px;
 }
-.pack-txt
-{
+
+.pack-txt {
     padding: 90px 40px;
     text-align: left;
 }
-.product
-{
+
+.product {
     width: 58.33%;
     float: left;
     padding: 15px 15px;
     overflow: auto;
-    
+
 }
-.pro-card
-{
+
+.pro-card {
     width: 33.33%;
     overflow: hidden;
     padding-right: 20px;
@@ -529,8 +526,8 @@ h6 {
     border-radius: 2px;
     box-shadow: 1px -1px 5px 1px #80808087;
 }
-.pro-card-light
-{
+
+.pro-card-light {
     width: 33.33%;
     overflow: hidden;
     padding-right: 20px;
@@ -543,37 +540,37 @@ h6 {
     box-shadow: 1px -1px 5px 1px #80808087;
     opacity: 0.4;
 }
-.pro-color
-{
+
+.pro-color {
     width: 100%;
     height: 100px;
     background-color: #26BAFF;
     border-bottom-right-radius: 30%;
     border-bottom-left-radius: 100%;
-    
+
 }
-.pro-txt
-{
+
+.pro-txt {
     font-size: 28px;
     color: white;
     font-weight: 600;
     font-family: sans-serif;
 }
-.pro-items
-{
+
+.pro-items {
     padding: 15px 15px;
 }
-.pro-item-list
-{
+
+.pro-item-list {
     list-style: none;
     padding: 15px 0px;
     font-size: 15px;
     font-family: sans-serif;
     font-weight: 500;
-    
+
 }
-.pro-btn
-{
+
+.pro-btn {
     border: 2px solid #26BAFF;
     color: #232044;
     font-size: 14px;
@@ -581,57 +578,224 @@ h6 {
     font-weight: 600;
     padding: 15px 15px;
     text-decoration: none;
-    
+
 }
-.pro-btn-cont
-{
+
+.pro-btn-cont {
     padding: 15px 15px;
 }
-.client-section
-{
+
+.client-section {
     width: 100%;
-    background-image:linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)),  url(../images/review_bg.jpg);
+    background-image: linear-gradient(rgba(35, 32, 68, .8), rgba(35, 32, 68, .8)), url(../images/review_bg.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: cover;
     background-attachment: fixed;
-    padding: 100px;
+    padding: 80px 150px;
 }
-.client-img
-{
+
+.client-img {
     width: 30%;
     margin: auto;
     padding: 15px;
     text-align: center;
 }
-.client-txt
-{
+
+.client-txt {
     width: 100%;
     margin: auto;
     text-align: center;
     padding: 10px;
 }
-.client-h2
-{
+
+.client-h2 {
     font-size: 20px;
     color: white;
     font-weight: 600;
     padding-top: 30px;
     font-family: sans-serif;
 }
-.client-h4
-{
+
+.client-h4 {
     font-size: 14px;
     color: white;
     font-weight: 400;
     font-family: sans-serif;
     padding-top: 10px;
 }
-.client-pera
-{
+
+.client-pera {
     font-size: 18px;
     font-weight: 400;
     font-family: sans-serif;
     color: white;
     padding-top: 50px;
-    padding-bottom: 40px;
+
+}
+
+.blog-card {
+    padding: 15px 30px;
+    text-align: center;
+}
+
+.blog-h2 {
+    color: #232044;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 14px;
+    font-family: sans-serif
+}
+
+.blog-pera {
+    color: #232044;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.blog-btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px 15px;
+    border: 2px solid #26BAFF;
+    background-color: #26BAFF;
+    border-radius: 3px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.blog-cont-out {
+    width: 33.33%;
+    float: left;
+    padding: 14px;
+}
+
+.blog-cont {
+
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 3px;
+}
+.contact-form
+{
+    width: 100%;
+    background-color: white;
+    padding: 48PX 56PX;
+    box-shadow: -1px 2px 26px -6px #000000;
+    overflow: auto;
+}
+.form-partone
+{
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
+.form
+{
+    padding: 20px 0px;
+}
+.form-txt
+{
+    font-weight: 500;
+    color: #5b6b7a;
+    font-size: 22px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+}
+.form-bottom
+{
+    width: 100%;
+    border-bottom: 1px solid #5b6b7a;
+    padding: 7px 0px;
+    
+}
+.form-h3
+{
+    font-weight: 400;
+    color: #7876aa;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.form-box
+{
+    width: 100%;
+    height: 90px;
+    border: 1px solid #5b6b7a;
+}
+.pad
+{
+    padding: 10px;
+}
+.form-send
+{
+    color: #5b6b7a;
+     border: 1px solid #5b6b7a;
+    padding: 15px 32px;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+.form-parttwo
+{
+    width: 41.66%;
+    margin-left: 5.33%;
+    float: left;
+    
+}
+.contact-info
+{
+    width: 100%;
+    height: 110px;
+    padding-top: 40px;
+    padding-left: 36px;
+    margin-bottom: 20px;
+    overflow: auto;
+    
+}
+.cont-img
+{
+    padding-right: 20px;
+    float: left
+}
+.cont-txt
+{
+    
+    font-family: sans-serif;
+    font-size: 14px;
+    float: left;
+}
+.footer-sec
+{
+    width: 100%;
+    background-color: #242047;
+    padding: 20px 0px;
+    
+}
+.footer
+{
+    width: 50%;
+    padding: 0px 15px;
+    float: left;
+}
+.foot-pera
+{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    font-family: sans-serif;
+}
+.soc-foot
+{
+    overflow: auto;
+    width: 50%;
+    padding: 20px 15px;
+}
+.soc-icon
+{
+    float: right;
+    padding: 0px 10px;
 }
