@@ -131,8 +131,16 @@ h6 {
     padding: 20px 40px;
     border-radius: 2px;
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 20px;
     text-decoration: none;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease;
+}
+.header-contact:hover
+{
+    background: none;
+    border: 1px solid #fff;
 }
 
 .header-port {
@@ -145,7 +153,42 @@ h6 {
     padding: 20px 40px;
     border-radius: 2px;
     display: inline-block;
+/*
+    position: relative;
+    overflow: hidden;
+    z-index: 11;
+*/
+} 
+/*
+.header-anchor>.header-port:hover
+{
+    z-index: 1;
 }
+*/
+.header-port:hover
+{
+    border: 1px solid #26BAFF;
+    background-color: #26BAFF;
+    transition: 0.3s all ease;
+    color: white;
+}
+/*
+.header-port::after
+{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -1px;
+    width: 0;
+    height: 100%;
+    background-color: #26BAFF;
+    z-index: -1;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease;
+    
+}
+*/
 
 .section-about {
     width: 100%;
